@@ -120,6 +120,7 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
+<img width="1920" height="1080" alt="digital exp1" src="https://github.com/user-attachments/assets/dc026479-2f69-42ca-bf83-dedaf60d97b9" />
 
 
 
